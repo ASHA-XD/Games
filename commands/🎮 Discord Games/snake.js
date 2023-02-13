@@ -3,7 +3,7 @@ const djsGames = require('djs-games')
 const SnakeGame = new djsGames.SnakeGame()
 
 module.exports = {
-    name: 'snack',
+    name: 'snake',
     aliases: ['snk'],
     categories : 'discord_games',
     description: '',
