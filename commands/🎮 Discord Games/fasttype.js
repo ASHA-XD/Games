@@ -19,7 +19,7 @@ module.exports = {
                 .setColor("GREEN")
                 .setDescription(`Your Game is Starting , Please Wait....`)
                 .setAuthor(message.author.tag)
-                .setFooter(`Coded By AKM`)
+                .setFooter(`Coded By ASHA-XD`)
                 .setTimestamp(5000)
         ).then(msg => {
             msg.delete({ timeout: 5000 })
