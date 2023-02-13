@@ -19,7 +19,7 @@ module.exports = {
                 .setAuthor(message.author.tag)
                 .setTitle("Invite & Support Link!")
                 .addField("**Invite Link**", `[Click here to invite me](https://discord.com/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=8)`)
-                .addField("**Support Server**", `[Click to join support Server](https://discord.gg/u7BDYB2pwn)`)
+                .addField("**Support Server**", `[Click to join support Server](https://discord.gg/FGasxcfd9A)`)
                 .setFooter(`Requested by ${message.author.tag}`, client.user.displayAvatarURL())
                 .setTimestamp()
 
