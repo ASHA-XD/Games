@@ -54,7 +54,7 @@ module.exports = {
         .addField("• Developer", `\`\`\`yml\nName: It's_asha#0534 [723115040055754822] \`\`\``)
         .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/u7BDYB2pwn)\`|\`[Youtube](https://www.youtube.com/channel/UCvKdWxnSoBUi30nlsBKviVQ)\`**`)
         .addFields(categories)
-        .setImage("https://raw.githubusercontent.com/ASHA-XD/Discord-MusicBot/master/assets/logo.gif")
+        .setImage("https://raw.githubusercontent.com/ASHA-XD/Discord-MusicBot/master/assets/video.gif")
         .setDescription(
           `Use \`${prefix}help\` followed by a command name to get more additional information on a command. For example: \`${prefix}help ban\`.`
         )
