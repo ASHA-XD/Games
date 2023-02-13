@@ -14,7 +14,7 @@
 
 Enjoy ;)
 
-[REPLIT](https://replit.com/@KabirJaipal/A-Advance-Discord-Multi-Purpose-with-Moderation-Music-Fun-et?v=1)
+Use Replit To Deploy 
 
 *Yes It Works on REPLIT*
 
