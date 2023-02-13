@@ -2,7 +2,7 @@
 
 **Make Sure You Give Credit.. Thank You**
 
-[Join my Support Server](https://discord.gg/tVWrU5PWZV)
+[Join my Support Server](https://discord.gg/FGasxcfd9A)
 
 ## HOW TO SELFHOSt
 
@@ -19,6 +19,6 @@ Use Replit To Deploy
 *Yes It Works on REPLIT*
 
 **Discord Server:**
-[https://discord.gg/tVWrU5PWZV](https://discord.gg/tVWrU5PWZV)
+[https://discord.gg/FGasxcfd9A](https://discord.gg/FGasxcfd9A)
 
 
