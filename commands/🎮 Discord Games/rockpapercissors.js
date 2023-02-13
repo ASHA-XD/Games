@@ -3,7 +3,7 @@ const djsGames = require('djs-games')
 const RockPaperScissors = new djsGames.RockPaperScissors()
 
 module.exports = {
-    name: 'rockpaperdcissors',
+    name: 'rockpapercissors',
     aliases: ['rpc'],
     categories : 'discord_games',
     description: '',
