@@ -51,10 +51,10 @@ module.exports = {
       const embed = new MessageEmbed()
         .setTitle("HELP MENU 🔰 Commands")
         .addField('Prefix Information', `Prefix: \`${prefix}\`\nYou can also mention ${client.user} to get prefix info.`, false)
-        .addField("• Developer", `\`\`\`yml\nName: AKM#9804 [886616686223032430] \`\`\``)
+        .addField("• Developer", `\`\`\`yml\nName: It's_asha#0534 [723115040055754822] \`\`\``)
         .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/u7BDYB2pwn)\`|\`[Youtube](https://www.youtube.com/channel/UCvKdWxnSoBUi30nlsBKviVQ)\`**`)
         .addFields(categories)
-        .setImage("https://cdn.discordapp.com/attachments/779341728695451678/896394496961548408/standard_20.gif")
+        .setImage("https://raw.githubusercontent.com/ASHA-XD/Discord-MusicBot/master/assets/logo.gif")
         .setDescription(
           `Use \`${prefix}help\` followed by a command name to get more additional information on a command. For example: \`${prefix}help ban\`.`
         )
