@@ -16,13 +16,13 @@ module.exports = {
     message.channel.send(
       new MessageEmbed()
         .setColor("RED")
-        .setFooter("Coded by: AKM")
+        .setFooter("Coded by: ASHA-XD")
         .setTitle(`${'🎈'} Pinging....`)
     ).then(msg => {
       msg.edit(
         new MessageEmbed()
           .setColor("RED")
-          .setFooter("Coded by: AKM")
+          .setFooter("Coded by: ASHA-XD")
           .setDescription(`🎈 Ping : ${client.ws.ping}ms`)
       )
     })
