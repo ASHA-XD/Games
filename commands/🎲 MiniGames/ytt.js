@@ -42,7 +42,7 @@ module.exports = {
                     .setDescription("I was unable to start a yt together session.")
                     .setColor("#ff0000")
             )
-            message.channel.send(`**Click This Link To Start a YouTube Together** Session\nhttps://discord.com/invite/${invite.code}`)
+            message.channel.send(`Click This Link To Start a YouTube Together Session\nhttps://discord.com/invite/${invite.code}`)
         })
     }
 }
